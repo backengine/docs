@@ -12,8 +12,11 @@ If you don't already have an Unity project and just want to try out Backengine, 
 Before you can add Backengine to your Unity project, you need to create a Backengine App to connect to your Unity project.
 
 #### Create Backengine App
-1. In the Backengine homepage, click Add App, then enter an App name, description.
-2. Click Add App
+1. In the Backengine homepage, click `Dashboard`.
+2. Login to dashboard with your account credentials.
+3. In the Backengine dashboard, click `Apps`, then click `Create An App` or ![Plus Button](/images/plusbutton.png) button.
+4. Insert you App information.
+5. Click `Add App`.
 
 Backengine automatically provisions resources for your Backengine App. When the process completes, you'll be taken to the overview page for your Backengine App
 
