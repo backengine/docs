@@ -17,6 +17,14 @@
 
 - Tutorials
 
-  - [Create a simple leaderboard](tutorial/ASimpleLeaderboard.md)
-    - [Using Backengine in Unity sample](tutorial/UnityDemo.md)
+  - <b>[Login/Register and Leaderboard](ASimpleLeaderboard.md)</b>
+
+    - [Using Backengine in Unity sample](UnityDemo.md)
+
+- API References
+
+  - BE Dashboard
+
+  - Unity SDK
+
  

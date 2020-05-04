@@ -1,13 +1,13 @@
-# Create a simple leaderboard
+# Using Backengine to create a simple login/register and leaderboard app
 
 **To **CONTINUE** you should finish `*STEP 1*` in `Getting started` session of this documents for your plaftorm.**
 
 ### Prepair Backengine Project
 
-### Create `user` schema
+### Create `USERS` schema
 
 - Click `View` button in your app created in above step.
-- In your app overview page, click `Create a schema` or ![Plus Button](../images/plusbutton.png) button to create a new schema.
+- In your app overview page, click `Create a schema` or ![Plus Button](/images/plusbutton.png) button to create a new schema.
 - Enter `users` in `Schema Name` box.
 - Select `Auth Schema` checkbox to define this is an `Auth Schema` type.
 - Click `Next`.
@@ -34,9 +34,9 @@
 
 Then click `[CREATE SCHEMA]` button. You should see `users` schema after processing.
 
-### Create `score` schema
+### Create `SCORE` schema
 
-- In your app overview page, click `Create a schema` or ![Plus Button](../images/plusbutton.png) button to create a new schema.
+- In your app overview page, click `Create a schema` or ![Plus Button](/images/plusbutton.png) button to create a new schema.
 - Enter `score` in `Schema Name` box.
 - Select `Edit Require Auth` checkbox to define this is an `Relation Schema` type.
 - Click `Next`.
